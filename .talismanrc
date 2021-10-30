@@ -1,0 +1,6 @@
+fileignoreconfig:
+- filename: next-env.d.ts
+  checksum: 79f75c2cf5c44425444b8ddb1f82f890a1583b66b76a0e5e4973dc808d3a1152
+- filename: package-lock.json
+  checksum: 46c481e5303910d45c3de612da6b36b80657b5feed8ebbf5e76487d7e43b436a
+version: "1.0"
