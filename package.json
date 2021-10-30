@@ -21,7 +21,7 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit": "$TALISMAN_HOME/talisman_hook_script pre-commit"
+      "pre-commit": "$TALISMAN_HOME/talisman_hook_script pre-commit && echo 'Test'"
     }
   }
 }
